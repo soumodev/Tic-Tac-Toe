@@ -2,7 +2,7 @@
 
 A Neural Network that takes as input a configuration of a sudoku grid and the next move of a player and returns if it is a "Good" move or a "Bad" move.
 Then use this Network to verify if certain properties holds. That is, given a property P for the input of the NN if the NN correctly predicts if for such
-inputs the output is "Good" or "Bad". 
+inputs the output is "Good" or "Bad" using the Z3-solver. 
 
 ## Description
 
